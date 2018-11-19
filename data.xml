@@ -25,6 +25,13 @@
 			<!-- <link>http://www.itunes.com/</link> -->
 		</platform>
 	</platforms>
+
+	<prices>
+		<price>
+			<currency>F2P</currency>
+			<value>$0.00</value>
+		</price>
+	</prices>
 	
 	<press-contact>bkd@estudiovacaroxa.com.br</press-contact>
 	<phone>+55 21 99810 6555</phone>
@@ -49,7 +56,7 @@
 	</socials>
 
 	<description>
-	Epic Golf 2D is an extremely casual golf game that offers a more modern and unprecedent take on the formula, making itself accessible to all audiences, with a learning curve that's not steep and manages to never gets boring.
+	Epic Golf 2D is an extremely casual golf game that offers a more modern and unprecedent take on the formula, making itself accessible to all audiences, with a learning curve that's not steep and manages to never gets boring. Plus thunders, explosions and a lot of BOSS BATTLES!
 
 Inspired by classic videogame art, the game mixes a side view in 2D with unusual interactions with the environment, thus revealing a unique and innovative aesthetic. It's overflowing with nostalgia, and it's always stimulating the player's creativity in a fun way with its bold design.
 
@@ -57,7 +64,7 @@ We have a game that offers to the players the possibility to develop their own w
 
 It's easy to see that Epic Golf 2D distances itself from other golf games, as it presents a unique spin on the formula while it encourages the player to enjoy a game that’s both creative and elegant.
 
-The idea is to develop a golf game IP with an arcade mode and a dynamic, challenging and fun multiplayer mode, resulting in a game that's a joy to play, while also being incredibly addicting and with lots of replay value.
+The idea is to develop a golf game IP with an arcade mode and a dynamic, challenging and fun gameplay, resulting in a game that's a joy to play, while also being incredibly addicting and with lots of replay value.
 	</description>
 	
 	<history>
