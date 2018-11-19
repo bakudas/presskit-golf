@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Epic Golf 2D</title>
+	<release-date>1 May, 2019</release-date>
+	<website>http://www.golf2d.online/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac</name>
+			<!-- <link>http://www.gamesite.com/</link> -->
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<!-- <link>http://www.steampowered.com/</link> -->
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<!-- <link>http://www.itunes.com/</link> -->
+		</platform>
+		<platform>
+			<name>Play Store</name>
+			<!-- <link>http://www.itunes.com/</link> -->
+		</platform>
+	</platforms>
+	
+	<press-contact>bkd@estudiovacaroxa.com.br</press-contact>
+	<phone>+55 21 99810 6555</phone>
+	<!-- <address>
+		<line>Praça Comandante Xavier de Brito, 30</line>
+		<line>Tijuca</line>
+	</address> -->
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>twitter.com/estudiovacaroxa</link>
+		</social>
+		<social>
+			<name>Facebook</name>
+			<link>facebook.com/estudiovacaroxa</link>
+		</social>
+		<social>
+			<name>Youtube</name>
+			<link>youtube.com/estudiovacaroxa</link>
+		</social>
+	</socials>
+
+	<description>
+	Epic Golf 2D is an extremely casual golf game that offers a more modern and unprecedent take on the formula, making itself accessible to all audiences, with a learning curve that's not steep and manages to never gets boring.
+
+Inspired by classic videogame art, the game mixes a side view in 2D with unusual interactions with the environment, thus revealing a unique and innovative aesthetic. It's overflowing with nostalgia, and it's always stimulating the player's creativity in a fun way with its bold design.
+
+We have a game that offers to the players the possibility to develop their own ways to play it, therefore, it has a huge potential to be expanded through DLCs or future instalments, adding new game modes, new characters, equipment customization and even themed golf courses.
+
+It's easy to see that Epic Golf 2D distances itself from other golf games, as it presents a unique spin on the formula while it encourages the player to enjoy a game that’s both creative and elegant.
+
+The idea is to develop a golf game IP with an arcade mode and a dynamic, challenging and fun multiplayer mode, resulting in a game that's a joy to play, while also being incredibly addicting and with lots of replay value.
+	</description>
+	
+	<history>
+	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</history>
+
+	<features>
+		<feature>Extremely casual game, accessible to all audiences, it has a fast learning curve, without looking silly or aimed towards kids..</feature>
+		<feature>Singular aestetic, mixing a 2D side view perspective and interactions with the envinroment, revealing the game mechanics' inovative atmosphere.</feature>
+		<feature>Emergent gameplay mechanics and countless ways to tackle the courses.</feature>
+		<feature>Easy to add new playable characters, themes, game modes and even a deeper level of item customization.</feature>
+		<feature>Fun, dynamic and challenging multiplayer that offers tons of replay value.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>EaH979hUMrE</youtube>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>Finalist for this prestigious award</description>
+			<info>BIG Starter, 27 June, 2018</info>
+		</award>
+	</awards>
+	
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Estúdio Vaca Roxa</title>
+			<description>We love to create playful things.</description>
+			<link>http://estudiovacaroxa.com.br</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Wilson Melo (bakudas)</person>
+			<website>www.wilsonmelo.com.br</website>
+			<role>CEO, Artist and Designer</role>
+		</credit>
+		<credit>
+			<person>Marcelo Belkiman</person>
+			<website>www.mmbelkiman.github.io/</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Patrícia Mani</person>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Gabe Fern</person>
+			<role>Artist, Freelancer</role>
+		</credit>		
+		<credit>
+			<person>Maurício Munky</person>
+			<role>Musician, Freelancer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>bkd@estudiovacaroxa.com.br</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/estudiovacaroxa</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/estudiovacaroxa</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>estudiovacaroxa.com</link>
+		</contact>
+	</contacts>
+</game>
